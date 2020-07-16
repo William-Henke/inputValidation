@@ -7,9 +7,9 @@ password.addEventListener('keyup', validPassword);
 //     namecheck.every(function(substring)
 // }
 function validName() {
-    let nameCheck = document.getElementById('name').value;
+    let nameCheck = str.search(" ");
 
-    if(1===1){
+    if(nameCheck < name.length){
         console.log('green');
         // display red x mark
     }

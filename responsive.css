@@ -1,0 +1,27 @@
+#imageDog {
+    display: block;
+    width: 150px;
+    height: 150px;
+}
+
+#imageCat {
+    display: none;
+    width: 150px;
+    height: 150px;
+}
+
+.imagesToggle {
+    width: 75%;
+
+}
+
+#color {
+    /* background-color: aqua; */
+    width: 800px;
+    height: 800px;
+}
+
+#images {
+    width: 150px;
+    height: 150px;
+}
